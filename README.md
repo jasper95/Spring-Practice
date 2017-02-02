@@ -1,2 +1,9 @@
 # Spring-Practice
-Spring Hibernate with Security Exercise
+A simple blog with authentication.
+  
+Main Technologies used:
+  * Maven
+  * Spring MVC
+  * Spring Security
+  * Mysql
+  * Hibernate
